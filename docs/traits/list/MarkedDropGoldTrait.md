@@ -1,5 +1,6 @@
 ---
 tags: trait, artemis, presumably_functional
+title: "Wanted Dead"
 ---
 ![[Artemis_06_Large.png\|60]] | Wanted Dead 
 --- | ---

@@ -1,5 +1,6 @@
 ---
 tags: trait, poseidon, presumably_functional
+title: "Flood Flare"
 ---
 ![[Poseidon_02_Large.png\|60]] | Flood Flare 
 --- | ---

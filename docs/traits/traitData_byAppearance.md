@@ -1,5 +1,5 @@
 ---
-title: TraitData by Appearance
+title: TraitData.lua by Appearance
 ---
 
 ![WrathDamageBuffTrait](WrathDamageBuffTrait.md)
@@ -8,9 +8,9 @@ title: TraitData by Appearance
 
 ![[ShieldLoadAmmo_PoseidonRangedTrait.md]]
 
-![[SlamStunTrait]]
+[[SlamStunTrait]]
 
-![[OnEnemyDeathDefenseBuffTrait]]
+ [OnEnemyDeathDefenseBuffTrait]
 
 ![[ReducedEnemySpawnsTrait]]
 
@@ -21,6 +21,13 @@ title: TraitData by Appearance
 ![[ArtemisShoutBuffTrait]]
 
 ![[MarkedDropGoldTrait]]
+
+---
+
+{%
+	include-markdown "list/*.md"
+	rewrite-relative-urls=true
+%}
 
 ---
 *to be continued*
