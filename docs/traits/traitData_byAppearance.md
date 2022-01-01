@@ -1,3 +1,7 @@
+---
+title: TraitData by Appearance
+---
+
 ![[WrathDamageBuffTrait]]
 ![[RetainTempHealthTrait]]
 ![[ShieldLoadAmmo_PoseidonRangedTrait]]
