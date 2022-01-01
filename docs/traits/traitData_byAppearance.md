@@ -2,15 +2,24 @@
 title: TraitData by Appearance
 ---
 
-![[WrathDamageBuffTrait]]
-![[RetainTempHealthTrait]]
+![WrathDamageBuffTrait](WrathDamageBuffTrait)
+
+[RetainTempHealthTrait](RetainTempHealthTrait)
+
 ![[ShieldLoadAmmo_PoseidonRangedTrait]]
+
 ![[SlamStunTrait]]
+
 ![[OnEnemyDeathDefenseBuffTrait]]
+
 ![[ReducedEnemySpawnsTrait]]
+
 ![[HealthBonusTrait]]
+
 ![[CriticalStunTrait]]
+
 ![[ArtemisShoutBuffTrait]]
+
 ![[MarkedDropGoldTrait]]
 
 ---
