@@ -2,11 +2,11 @@
 title: TraitData by Appearance
 ---
 
-![WrathDamageBuffTrait](WrathDamageBuffTrait)
+![WrathDamageBuffTrait](WrathDamageBuffTrait.md)
 
-[RetainTempHealthTrait](RetainTempHealthTrait)
+[RetainTempHealthTrait](RetainTempHealthTrait.md)
 
-![[ShieldLoadAmmo_PoseidonRangedTrait]]
+![[ShieldLoadAmmo_PoseidonRangedTrait.md]]
 
 ![[SlamStunTrait]]
 
