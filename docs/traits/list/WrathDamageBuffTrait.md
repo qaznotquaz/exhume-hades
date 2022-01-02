@@ -1,6 +1,7 @@
 ---
 tags: trait, zeus, presumably_functional
 ---
+<!-- end front matter -->
 ![[Zeus_08_Large.png\|60]] | WrathDamageBuffTrait 
 --- | ---
 
