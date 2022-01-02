@@ -1,5 +1,5 @@
 ---
-title: TraitData.lua by Appearance
+title: "TraitData.lua, alphabetical"
 ---
 
 ![WrathDamageBuffTrait](WrathDamageBuffTrait.md)
@@ -26,7 +26,6 @@ title: TraitData.lua by Appearance
 
 {%
 	include-markdown "list/*.md"
-	rewrite-relative-urls=true
 	heading-offset=1
 %}
 

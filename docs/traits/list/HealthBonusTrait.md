@@ -11,4 +11,5 @@ no icon | HealthBonusTrait
 >fun fact, i almost skipped this assuming it was `Tough Skin`, or perhaps `Spiked Collar`, until i checked and realized it's not referenced anywhere else.
 
 ## Notes
-* [ ] **Functional:** presumably
+* **Source:** unclear
+* **Functional:** presumably
