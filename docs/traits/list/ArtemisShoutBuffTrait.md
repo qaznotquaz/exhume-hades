@@ -1,4 +1,4 @@
-![](BoonsIcons/Artemis_04_Large.png)
+![](BoonIcons/Artemis_04_Large.png)
 # ArtemisShoutBuffTrait 
 
 ### My Two Cents

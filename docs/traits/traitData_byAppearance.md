@@ -26,6 +26,7 @@ title: "TraitData.lua, alphabetical"
 
 {%
 	include-markdown "list/*.md"
+	rewrite-relative-urls=true
 	heading-offset=1
 %}
 
