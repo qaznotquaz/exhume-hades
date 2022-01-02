@@ -1,4 +1,4 @@
-![](BoonIcons/Artemis_05_Large.png)
+![](../../BoonIcons/Artemis_05_Large.png)
 # CriticalStunTrait 
 
 ### My Two Cents
