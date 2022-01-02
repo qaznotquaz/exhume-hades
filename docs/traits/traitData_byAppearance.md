@@ -26,7 +26,7 @@ title: "TraitData.lua, alphabetical"
 
 {%
 	include-markdown "list/*.md"
-	heading-offset=1
+	heading-offset=0
 	start="<!-- end front matter -->"
 %}
 
