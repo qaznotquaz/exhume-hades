@@ -19,5 +19,5 @@ title: "Flood Flare"
 
 ## Notes
 * **Source:** Poseidon
-* [ ] **Functional:** presumably
-* [ ] **See Also:** [[ShieldLoadAmmo_DionysusRangedTrait]]
+* **Functional:** presumably
+* **See Also:** [[ShieldLoadAmmo_DionysusRangedTrait]]
