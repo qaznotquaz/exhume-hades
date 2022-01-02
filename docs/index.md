@@ -7,6 +7,3 @@ did you know that there's a significant number of things in the game ***Hades***
 
 ## Unused Traits
 [Sorted by appearance in TraitData.lua](traitData_byAppearance.md)
-
----
-*side note: checkboxes indicate a TODO item i have yet to address.*
