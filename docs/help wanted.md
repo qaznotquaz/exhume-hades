@@ -16,3 +16,6 @@ checking whether things work is going to take time, and if i want to set up [pro
 
 ## Artwork
 i'm not sure how far this part will reach, but at least for the [traits](traits/list/traitData_alphabetical.md), this is much-needed, since so many of them are missing icons (and the game crashes if it tries to display a nonexistent icon). on top of that, even the ones that have icons are mostly duplicates of traits which are already in the final build! obviously, we could just keep duplicating existing icons, but original art work be nice to have if anyone's interested and willing.
+
+# Q: What do I do if I'm interested?
+if this sounds interesting to you and you'd like to help out, drop into the [Hades Modding Discord](https://discord.gg/KuMbyrN) and ping me `@qaznotquaz#3300` in the `#datamining` channel!
