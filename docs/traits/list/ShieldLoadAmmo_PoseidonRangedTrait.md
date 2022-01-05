@@ -3,8 +3,8 @@ tags: trait, poseidon, presumably_functional
 title: "Flood Flare"
 ---
 <!-- end front matter -->
-![[Poseidon_02_Large.png\|60]] | Flood Flare 
---- | ---
+# Flood Flare 
+![](Poseidon_02_Large.png)
 
 ---
 ## Helptext

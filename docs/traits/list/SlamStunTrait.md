@@ -2,8 +2,8 @@
 tags: trait, poseidon, presumably_functional
 ---
 <!-- end front matter -->
-![[Poseidon_08_Large.png\|60]] | SlamStunTrait 
---- | ---
+# SlamStunTrait 
+![](Poseidon_08_Large.png)
 
 ---
 ## My Two Cents

@@ -2,7 +2,8 @@
 title: Wanted Dead
 ---
 <!-- end front matter -->
-# ![](Artemis_06_Large.png) Wanted Dead 
+# Wanted Dead
+![](Artemis_06_Large.png)
 
 ## Helptext
 >**Wanted Dead**
