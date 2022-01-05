@@ -1,10 +1,10 @@
 ---
 tags: trait, dionysus, presumably_functional
-title: "Trippy Flare"
+title: ShieldLoadAmmo_DionysusRangedTrait
 ---
 <!-- end front matter -->
-# Trippy Flare 
-![](BoonIcons/Dionysus_02_Large.png)
+# ShieldLoadAmmo_DionysusRangedTrait 
+![](Dionysus_02_Large.png)
 
 ## Helptext
 > **Trippy Flare**

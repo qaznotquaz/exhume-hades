@@ -1,10 +1,10 @@
 ---
 tags: trait, poseidon, presumably_functional
-title: "Flood Flare"
+title: ShieldLoadAmmo_PoseidonRangedTrait
 ---
 <!-- end front matter -->
-# Flood Flare 
-![](BoonIcons/Poseidon_02_Large.png)
+# ShieldLoadAmmo_PoseidonRangedTrait 
+![](Poseidon_02_Large.png)
 
 ## Helptext
 > **Flood Flare**

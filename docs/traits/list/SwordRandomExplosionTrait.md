@@ -1,12 +1,21 @@
 ---
-title: Firework Slash
+title: SwordRandomExplosionTrait
 ---
 <!-- end front matter -->
-# Firework Slash
+# SwordRandomExplosionTrait
+![](sword_blade_nova_02.png)
 
-> unwritten entry
+## Helptext
+> **Firework Slash**
+> 
+> Your **Attack** create a miniblast nearby that deals **30** damage.
+
+## My Two Cents
+> a firework-themed daedalus upgrade for the sword. sweet!
 
 ## Notes
+* **Source:** Daedalus
+* **Functional:** presumably
 * **See Also:** [`LimitedTimeTrait`](LimitedTimeTrait.md)
 
 ---

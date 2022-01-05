@@ -1,9 +1,9 @@
 ---
-title: Wanted Dead
+title: MarkedDropGoldTrait
 ---
 <!-- end front matter -->
-# Wanted Dead
-![](BoonIcons/Artemis_06_Large.png)
+# MarkedDropGoldTrait
+![](Artemis_06_Large.png)
 
 ## Helptext
 >**Wanted Dead**

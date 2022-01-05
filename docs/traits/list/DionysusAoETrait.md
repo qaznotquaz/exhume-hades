@@ -4,7 +4,7 @@ title: "DionysusAoETrait"
 ---
 <!-- end front matter -->
 # DionysusAoETrait 
-![](BoonIcons/Dionysus_05_Large.png)
+![](Dionysus_05_Large.png)
 
 ## My Two Cents
 > increases the radius of dionysus' cast by **100**/**150**/**250**/**270** units, up from a base of `400`.
