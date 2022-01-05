@@ -3,7 +3,7 @@ title: BowRandomExplosionTrait
 ---
 <!-- end front matter -->
 # BowRandomExplosionTrait
-![](bow_penetrating_shot_05.png)
+![](../icons/WeaponIcons/bow_penetrating_shot_05.png)
 
 ## Helptext
 > **Firework Stance**

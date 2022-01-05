@@ -4,7 +4,7 @@ title: ShieldLoadAmmo_DionysusRangedTrait
 ---
 <!-- end front matter -->
 # ShieldLoadAmmo_DionysusRangedTrait 
-![](Dionysus_02_Large.png)
+![](../icons/BoonIcons/Dionysus_02_Large.png)
 
 ## Helptext
 > **Trippy Flare**

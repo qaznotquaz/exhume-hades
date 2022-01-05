@@ -3,7 +3,7 @@ title: SwordRandomExplosionTrait
 ---
 <!-- end front matter -->
 # SwordRandomExplosionTrait
-![](sword_blade_nova_02.png)
+![](../icons/WeaponIcons/sword_blade_nova_02.png)
 
 ## Helptext
 > **Firework Slash**

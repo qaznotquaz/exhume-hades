@@ -3,7 +3,7 @@ title: ShieldThrowSingleTargetTrait
 ---
 <!-- end front matter -->
 # ShieldThrowSingleTargetTrait
-![](shield_superior_retaliation_07.png)
+![](../icons/WeaponIcons/shield_superior_retaliation_07.png)
 
 ## Helptext
 > **Burst Flight**

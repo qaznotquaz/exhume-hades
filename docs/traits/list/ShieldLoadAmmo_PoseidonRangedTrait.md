@@ -4,7 +4,7 @@ title: ShieldLoadAmmo_PoseidonRangedTrait
 ---
 <!-- end front matter -->
 # ShieldLoadAmmo_PoseidonRangedTrait 
-![](Poseidon_02_Large.png)
+![](../icons/BoonIcons/Poseidon_02_Large.png)
 
 ## Helptext
 > **Flood Flare**

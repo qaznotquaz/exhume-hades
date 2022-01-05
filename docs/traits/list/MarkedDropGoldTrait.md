@@ -3,7 +3,7 @@ title: MarkedDropGoldTrait
 ---
 <!-- end front matter -->
 # MarkedDropGoldTrait
-![](Artemis_06_Large.png)
+![](../icons/BoonIcons/Artemis_06_Large.png)
 
 ## Helptext
 >**Wanted Dead**
