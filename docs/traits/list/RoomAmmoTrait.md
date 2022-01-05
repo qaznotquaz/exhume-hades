@@ -10,7 +10,7 @@ title: RoomAmmoTrait
 
 ## Notes
 * **Source:** Artemis
-* **Functional:** not that i can tell.
+* **Functional:** none that i can tell.
 * unreferenced
 
 ---

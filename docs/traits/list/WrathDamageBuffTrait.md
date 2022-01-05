@@ -5,7 +5,6 @@ tags: trait, zeus, presumably_functional
 # WrathDamageBuffTrait 
 ![](BoonIcons/Zeus_08_Large.png)
 
----
 ## My Two Cents
 > this trait has a unique `DamagePerSuperStock` field, which provides a percent bonus to damage output based on how full your God Gauge is.
 > 

@@ -4,9 +4,8 @@ title: "Trippy Flare"
 ---
 <!-- end front matter -->
 # Trippy Flare 
-![](BoonIcons/Dionysus_02_Large.png60)
+![](BoonIcons/Dionysus_02_Large.png)
 
----
 ## Helptext
 > **Trippy Flare**
 > 
