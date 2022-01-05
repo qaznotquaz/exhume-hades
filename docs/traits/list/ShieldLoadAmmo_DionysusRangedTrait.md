@@ -22,3 +22,5 @@ title: "Trippy Flare"
 * **Source:** Dionysus
 * **Functional:** presumably
 * **See Also:** [[ShieldLoadAmmo_PoseidonRangedTrait]]
+
+---

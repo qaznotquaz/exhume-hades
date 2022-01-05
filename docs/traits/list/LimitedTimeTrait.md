@@ -14,3 +14,5 @@ title: LimitedTimeTrait
 	* [[SpearSpinChargeExplosions]]
 	* [[ShieldThrowSingleTargetTrait]]
 	* [[BowRandomExplosionTrait]]
+
+---

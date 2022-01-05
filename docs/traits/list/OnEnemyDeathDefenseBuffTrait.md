@@ -11,3 +11,5 @@ title: OnEnemyDeathDefenseBuffTrait
 * **Source:** Poseidon
 * **Functional:** presumably
 * icon missing
+
+---

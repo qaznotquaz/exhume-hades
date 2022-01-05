@@ -11,4 +11,6 @@ tags: trait, poseidon, presumably_functional
 
 ## Notes
 * **Source:** Poseidon
-* [ ] **Functional:** presumably
+* **Functional:** presumably
+
+---

@@ -13,4 +13,6 @@ tags: trait, zeus, presumably_functional
 
 ## Notes
 * **Source:** Zeus
-* [ ] **Functional:** presumably
+* **Functional:** presumably
+
+---

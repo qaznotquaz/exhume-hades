@@ -14,3 +14,5 @@ title: "DionysusAoETrait"
 ## Notes
 * **Source:** Dionysus
 * **Functional:** presumably, not sure about the shout part
+
+---
