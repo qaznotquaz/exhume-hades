@@ -6,4 +6,7 @@ title: Firework Spin
 
 > unwritten entry
 
+## Notes
+* **See Also:** [`LimitedTimeTrait`](LimitedTimeTrait.md)
+
 ---

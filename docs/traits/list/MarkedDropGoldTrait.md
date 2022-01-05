@@ -3,7 +3,7 @@ title: Wanted Dead
 ---
 <!-- end front matter -->
 # Wanted Dead
-![](Artemis_06_Large.png)
+![](BoonIcons/Artemis_06_Large.png)
 
 ## Helptext
 >**Wanted Dead**

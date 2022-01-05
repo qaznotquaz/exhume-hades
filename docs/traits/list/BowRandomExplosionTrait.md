@@ -6,4 +6,7 @@ title: Firework Stance
 
 > unwritten entry
 
+## Notes
+* **See Also:** [`LimitedTimeTrait`](LimitedTimeTrait.md)
+
 ---

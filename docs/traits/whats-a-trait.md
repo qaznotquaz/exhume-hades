@@ -1,7 +1,7 @@
 ---
 title: "What's a Trait?"
 ---
-## What's a Trait?
+# What's a Trait?
 ---
 **short answer:** those things that boons, weapon aspects, keepsake effects, bonuses from charon's well, and the like are.
 

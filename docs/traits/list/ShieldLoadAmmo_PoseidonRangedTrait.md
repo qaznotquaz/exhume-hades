@@ -4,7 +4,7 @@ title: "Flood Flare"
 ---
 <!-- end front matter -->
 # Flood Flare 
-![](Poseidon_02_Large.png)
+![](BoonIcons/Poseidon_02_Large.png)
 
 ---
 ## Helptext
@@ -21,6 +21,6 @@ title: "Flood Flare"
 ## Notes
 * **Source:** Poseidon
 * **Functional:** presumably
-* **See Also:** [[ShieldLoadAmmo_DionysusRangedTrait]]
+* **See Also:** [`ShieldLoadAmmo_DionysusRangedTrait`](ShieldLoadAmmo_DionysusRangedTrait.md)
 
 ---

@@ -3,7 +3,7 @@ tags: trait, poseidon, presumably_functional
 ---
 <!-- end front matter -->
 # SlamStunTrait 
-![](Poseidon_08_Large.png)
+![](BoonIcons/Poseidon_08_Large.png)
 
 ---
 ## My Two Cents

@@ -6,4 +6,7 @@ title: Burst Flight
 
 > unwritten entry
 
+## Notes
+* **See Also:** [`LimitedTimeTrait`](LimitedTimeTrait.md)
+
 ---

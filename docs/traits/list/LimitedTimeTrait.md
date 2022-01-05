@@ -10,9 +10,9 @@ title: LimitedTimeTrait
 ## Notes
 * **Functional:** presumably
 * **See Also:**
-	* [[SwordRandomExplosionTrait]]
-	* [[SpearSpinChargeExplosions]]
-	* [[ShieldThrowSingleTargetTrait]]
-	* [[BowRandomExplosionTrait]]
+	* [`SwordRandomExplosionTrait`](SwordRandomExplosionTrait.md)
+	* [`SpearSpinChargeExplosions`](SpearSpinChargeExplosions.md)
+	* [`ShieldThrowSingleTargetTrait`](ShieldThrowSingleTargetTrait.md)
+	* [`BowRandomExplosionTrait`](BowRandomExplosionTrait.md)
 
 ---

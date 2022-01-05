@@ -4,7 +4,7 @@ title: "Trippy Flare"
 ---
 <!-- end front matter -->
 # Trippy Flare 
-![](Dionysus_02_Large.png60)
+![](BoonIcons/Dionysus_02_Large.png60)
 
 ---
 ## Helptext
@@ -21,6 +21,6 @@ title: "Trippy Flare"
 ## Notes
 * **Source:** Dionysus
 * **Functional:** presumably
-* **See Also:** [[ShieldLoadAmmo_PoseidonRangedTrait]]
+* **See Also:** [`ShieldLoadAmmo_PoseidonRangedTrait`](ShieldLoadAmmo_PoseidonRangedTrait.md)
 
 ---

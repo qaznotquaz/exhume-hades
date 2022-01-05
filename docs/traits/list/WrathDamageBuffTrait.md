@@ -3,7 +3,7 @@ tags: trait, zeus, presumably_functional
 ---
 <!-- end front matter -->
 # WrathDamageBuffTrait 
-![](Zeus_08_Large.png)
+![](BoonIcons/Zeus_08_Large.png)
 
 ---
 ## My Two Cents
